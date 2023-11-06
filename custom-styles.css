@@ -1,7 +1,7 @@
 
 body {
   padding-top: 54px;
-  background-color: hsl(19, 76%, 35%);
+  background-color: #b4a08d;
 }
 
 .welcome {
@@ -9,7 +9,7 @@ body {
 }
 
 .homepage-header{
-  background-color: rgb(193, 86, 175);
+  background-color: #c2b7b2;
 }
 
 @media (min-width: 992px) {
@@ -19,7 +19,7 @@ body {
 }
 
 .footer {
-  background-color: darkgreen;
+  background-color: #6e745d;
   width: 100%
 }
 
@@ -37,11 +37,11 @@ button {
 }
 
 .about-me-background {
-  background-color: aqua;
+  background-color: #c2b7b2;
 }
 
 .background-nav {
-  background-color: bisque;
+  background-color: #6e745d;
 }
 
 /*!
